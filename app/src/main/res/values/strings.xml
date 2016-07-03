@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ClinApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="def_option">Poliéster/Algodón</string>
+
+    <string-array name="planets_array">
+        <item>Poliéster/Algodón</item>
+        <item>Seda/Lino</item>
+    </string-array>
+
 </resources>
